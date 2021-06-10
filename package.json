@@ -1,0 +1,26 @@
+{
+  "name": "cursow",
+  "version": "1.0.0",
+  "description": "Desarrollo de API Rest",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/18Roderick/cursow.git"
+  },
+  "keywords": [
+    "node",
+    "express"
+  ],
+  "author": "Roderick",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/18Roderick/cursow/issues"
+  },
+  "homepage": "https://github.com/18Roderick/cursow#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
